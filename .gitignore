@@ -1,0 +1,5 @@
+node_modules/
+slide_cache/
+extracted_images/
+samples/
+*.png

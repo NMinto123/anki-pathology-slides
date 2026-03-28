@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canvas": "^3.2.2",
+    "pdf2pic": "^3.2.0",
+    "pdfjs-dist": "^5.5.207",
+    "puppeteer": "^24.40.0"
+  }
+}
